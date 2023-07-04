@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Deeptansh
+          Learn React - beginner stage
+            
         </a>
       </header>
     </div>
